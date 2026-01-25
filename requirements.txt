@@ -1,0 +1,7 @@
+ transformers 
+ datasets 
+ scikit-learn 
+ numpy 
+ seqeval
+ accelerate
+ colorama
