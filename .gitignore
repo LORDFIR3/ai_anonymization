@@ -6,3 +6,5 @@
 /results_tmp
 /my_pii_model
 /aivenv
+/ai4privacy-deberta-nemotron
+__pycache__/
